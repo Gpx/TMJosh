@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple/DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+  <key>Label</key>
+  <string>com.gpx.tmjosh</string>
+
+  <key>ProgramArguments</key>
+  <array>
+    <string>foreman start</string>
+  </array>
+
+  <key>Nice</key>
+  <string>1</string>
+
+  <key>StartInterval</key>
+  <string>65</string>
+
+  <key>RunAtLoad</key>
+  <true/>
+
+  <key>StandardErrorPath</key>
+  <string>/tmp/AlTest1.err</string>
+
+  <key>StandardOutPath</key>
+  <string>/tmp/AlTest1.out</string>
+</dict>
+</plist>
