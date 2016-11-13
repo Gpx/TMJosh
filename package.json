@@ -1,0 +1,14 @@
+{
+  "name": "TMJosh",
+  "version": "1.0.0",
+  "main": "app.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "asyncawait": "^1.0.6",
+    "lodash": "^4.16.6",
+    "simple-twitter": "^1.0.7"
+  }
+}
